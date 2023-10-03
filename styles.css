@@ -11,5 +11,13 @@ h1
 body
  {
 background-color: aliceblue;
-
+margin: 0;
+}
+header
+{
+    height: 300px;
+    width: auto;
+    margin: 0;
+    background-attachment: fixed;
+    background-color: aqua;
 }
